@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  practice-helm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-09T21:17:50.55001+05:00"
+    description: A Helm chart for Kubernetes
+    digest: 1a97fcef554aa88a8a849af3d0861ed2d8afc0a2c761054241e974e51fc69085
+    name: practice-helm
+    type: application
+    urls:
+    - practice-helm-0.0.1.tgz
+    version: 0.0.1
+generated: "2024-02-09T21:17:50.549752+05:00"
